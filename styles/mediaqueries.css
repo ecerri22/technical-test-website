@@ -131,7 +131,7 @@
     
     .product-info {
         padding: 1.5rem 0;
-        height: 50%;
+        height: -webkit-fit-available;
     }
 
     .product-description {
